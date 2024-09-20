@@ -1,0 +1,40 @@
+{
+  "username.noNumbers":"Le nom d'utilisateur ne peut pas être composé uniquement de chiffres",
+  "mixed.required": "Ce champ est requis",
+  "string.email": "Adresse email invalide",
+  "string.min": "Le mot de passe doit contenir au moins {min} caractères",
+
+  "products.listTitle": "Liste de nos produits",
+
+  "signup.title": "Inscription",
+  "signup.username": "Nom d'utilisateur",
+  "signup.mail": "Adresse email",
+  "signup.pass": "Mot de passe",
+  "signup.button": "S'inscrire",
+  "signin.title": "Connectez-vous ici",
+  "signin.button": "Connexion",
+
+  "product.title": "Ajouter un produit",
+  "product.name": "Nom du produit",
+  "product.description": "Description",
+  "product.price": "Prix",
+  "product.image": "Image",
+  "product.upload.placeholder": "Faites glisser une image ici, ou cliquez pour sélectionner un fichier",
+  "product.upload.dragHere": "Déposez le fichier ici ...",
+  "product.button": "Enregistrer",
+  "product.submit": "Enregistrer",
+  "spinner.loading": "Chargement...",
+  "product.notFound": "Aucun produit trouvé.",
+
+  "header.search": "Rechercher...",
+  "header.signup": "S'inscrire",
+  "header.signin": "Se connecter",
+
+  "registrationSuccess": "Inscription réussie !",
+  "registrationFailed": "Échec de l'inscription",
+  "errorDuringRegistration": "Erreur lors de l'inscription :",
+  
+  "connectionSuccess": "Connexion réussie!",
+  "connectionFailed": "Identifiants invalides. Veuillez réessayer.!",
+  "errorDuringConnection": "Erreur lors de la connexion :"
+}

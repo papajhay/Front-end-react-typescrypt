@@ -1,0 +1,40 @@
+{
+  "username.noNumbers":"Username cannot be all numbers",
+  "mixed.required": "This field is required",
+  "string.email": "Invalid email address",
+  "string.min": "Password must be at least {min} characters long",
+
+  "signup.title": "Registration",
+  "signup.username": "Username",
+  "signup.mail": "Email Address",
+  "signup.pass": "Password",
+  "signup.button": "Register",
+
+  "signin.title": "Log in here",
+  "signin.button": "Login",
+
+  "product.title": "Add Product",
+  "product.name": "Product Name",
+  "product.description": "Description",
+  "product.price": "Price",
+  "product.image": "Image",
+  "product.upload.placeholder": "Drag an image here, or click to select a file",
+  "product.product.upload.dragHere": "Drop the file here ...",
+  "product.button": "Save",
+  "product.submit": "Submit",
+  "spinner.loading": "Loading...",
+
+  "product.notFound": "No products found.",
+
+  "header.search": "Search here",
+  "header.signup": "Sign up",
+  "header.signin": "Sign in",
+
+  "registrationSuccess": "Successful registration!",
+  "registrationFailed": "Registration failed",
+  "errorDuringRegistration": "Error during registration:",
+
+  "connectionSuccess": "Connection successful!",
+  "connectionFailed": "Invalid credentials!",
+  "errorDuringConnection": "Error during connexion:"
+}
